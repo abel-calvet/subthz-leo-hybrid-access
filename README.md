@@ -200,6 +200,7 @@ Here's a brief description of how this is done:
     * `high`: near overhead
     * `mid`: accessible, mid elevation
     * `low`: low-elevation, near accessibility threshold
+
 We generate a fine 60-second trace around each selected time, compute slant range and convert it to propagation delay, and compute an off-nadir angle and field-of-view mask
 
 The ground-station location is Avery Hall in Lincoln, Nebraska.
