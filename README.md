@@ -1,5 +1,27 @@
 # Sub-THz Terrestrial and LEO Satellite Communications Hybrid-Access Controller
 
+## How to Cite
+
+If you use this repository to build on this work, please cite:
+
+> A. Calvet and S. Nie, "Adaptive Traffic Switching and Splitting Between Sub-THz Microcells and LEO Satellite Links Under Network Dynamics," in *Proceedings of the 7th International Conference on Communications, Signal Processing, and their Applications (ICCSPA 2026)*, June, 2026, Alcalá de Henares, Spain, pp. 1--6
+> **DOI**: To Be Added After Official Publication
+
+### BibTeX
+
+```bibtex
+@inproceedings{calvet2026adaptive,
+  author    = {Abel Calvet and Shuai Nie},
+  title     = {Adaptive Traffic Switching and Splitting Between Sub-THz Microcells and LEO Satellite Links Under Network Dynamics},
+  booktitle = {Proceedings of the 7th International Conference on Communications, Signal Processing, and their Applications (ICCSPA 2026)},
+  address   = {Alcalá de Henares, Spain},
+  month     = jun,
+  year      = {2026},
+  pages     = {1--6},
+  note      = {DOI to be added after official publication}
+}
+```
+
 ## The Project
 
 We simulate a hybrid terrestrial-satellite uplink where a forwarding node (e.g., a base station) can steer traffic over:
