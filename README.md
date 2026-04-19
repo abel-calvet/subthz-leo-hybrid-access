@@ -4,7 +4,8 @@
 
 If you use this repository to build on this work, please cite:
 
-> A. Calvet and S. Nie, "Adaptive Traffic Switching and Splitting Between Sub-THz Microcells and LEO Satellite Links Under Network Dynamics," in *Proceedings of the 7th International Conference on Communications, Signal Processing, and their Applications (ICCSPA 2026)*, June, 2026, Alcalá de Henares, Spain, pp. 1--6
+> A. Calvet and S. Nie, "Adaptive Traffic Switching and Splitting Between Sub-THz Microcells and LEO Satellite Links Under Network Dynamics," *Proceedings of the 7th International Conference on Communications, Signal Processing, and their Applications (ICCSPA 2026)*, June, 2026, Alcalá de Henares, Spain, pp. 1--6
+
 > **DOI**: To Be Added After Official Publication
 
 ### BibTeX
